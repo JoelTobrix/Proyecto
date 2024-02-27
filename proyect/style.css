@@ -1,0 +1,25 @@
+.header-ploma {
+    --company-name: IGH Mega Computers;
+    background-color: #333;
+    height: 100px;
+    display: flex;
+    align-items: center;
+  }
+  
+  /*Ajustar texto del menu en el centro con margin-right*/
+  .header-ploma-logo-container {
+    margin-right: 450px;
+  }
+  
+  .header-ploma-logo {
+    height: 50px;
+    width: 50px;
+  }
+  
+  .header-ploma-texto {
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+  }
+  
+  
